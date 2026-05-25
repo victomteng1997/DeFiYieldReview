@@ -2,7 +2,7 @@
 
 Static review site for DeFi yield platforms, built with Astro and ready for GitHub Pages.
 
-**Default URL**: `https://greydgl.github.io/DeFiYieldReview/`
+**Default URL**: `https://victomteng1997.github.io/DeFiYieldReview/`
 
 ## Local development
 
@@ -28,7 +28,7 @@ Push this project to a GitHub repository named `DeFiYieldReview` and enable GitH
 Default deploy target:
 
 ```js
-const SITE_URL = 'https://greydgl.github.io';
+const SITE_URL = 'https://victomteng1997.github.io';
 const BASE_PATH = '/DeFiYieldReview';
 ```
 
